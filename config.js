@@ -13,10 +13,10 @@ const siteConfig = {
 const users = [
   {
     id: 0, // default author
-    username: "licat",
-    company: "weniv",
+    username: "gctjdus0",
+    company: "gachon",
     position: "CEO",
-    img: "img/user/profile-licat.png",
+    img: ""C:\Users\더여니\Documents\카카오톡 받은 파일\2026증명사진.jpg"",
   },
 ];
 
