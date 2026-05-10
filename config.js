@@ -16,7 +16,7 @@ const users = [
     username: "gctjdus0",
     company: "gachon",
     position: "CEO",
-    img: ""C:\Users\더여니\Documents\카카오톡 받은 파일\2026증명사진.jpg"",
+    img: "" "",
   },
 ];
 
